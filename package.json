@@ -29,7 +29,7 @@
     "nodemon": "^2.0.2",
     "pg": "^7.18.1",
     "routing-controllers": "^0.8.1-alpha.2",
-    "typeorm": "^0.2.22",
+    "typeorm": "^0.2.25",
     "typescript": "^3.7.5"
   }
 }
